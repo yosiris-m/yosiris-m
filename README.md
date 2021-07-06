@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**yosiris-m/yosiris-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --->
 I am a programming enthusiast✨ . I am interested in improving my knowledge of creating quality code using automated tests, good practices and design patterns.
 
 
