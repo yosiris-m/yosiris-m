@@ -11,7 +11,8 @@ I am a programming enthusiast ✨. I am interested in improving my knowledge of 
 <br>
 <br>
 <br>
-<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+
+<img align="left" alt="HTML5" width="30px"  src="https://user-images.githubusercontent.com/81619180/124942826-42cea380-e00c-11eb-85ab-4688d39e48ea.png" />
 
 <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
@@ -53,10 +54,8 @@ I am a programming enthusiast ✨. I am interested in improving my knowledge of 
 
 
 <br>
-<br>
 📫 You can contact me through:
-<img align="left" alt="Linkedin" width="85px" height="30" href="https://www.linkedin.com/in/yosiris/" src="http://www.unedtudela.es/archivos_publicos/qnews/9439/ddd.jpg" />
+<a href = 'https://www.linkedin.com/in/yosiris'> <img width = '80px' align= 'center' src="https://www.audienciaelectronica.net/wp-content/uploads/2018/11/linkedin-logo.png"/></a> 
 
-<br>
-<br>
+
 
