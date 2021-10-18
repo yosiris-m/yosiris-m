@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **React**
 
-- 👨‍💻 All of my projects are available at [https://github.com/yosiris-m](https://github.com/yosiris-m)
+- 👨‍💻 All of my projects are available at [https://github.com/yosiris-m/portfolio](https://github.com/yosiris-m/portfolio)
 
 - 📫 How to reach me **yosiris1086@gmail.com**
 
