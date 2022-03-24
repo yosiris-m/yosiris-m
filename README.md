@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yosiris</h1>
-<h3 align="center">I am a programming enthusiast sparkles. I am interested in improving my knowledge of creating quality code using automated tests, good practices and design patterns.</h3>
+<h3 align="center">I am a programming enthusiast. I am interested in improving my knowledge of creating quality code using automated tests, good practices and design patterns.</h3>
 
 - 🔭 I’m currently working on [FamilyCash](https://github.com/yosiris-m/family-cash-app)
 
