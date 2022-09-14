@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Typescript, Angular**
 
-- 👯 Actually I work in **Sopra HR software**
+- 👯 Actually I work in **heyTrade**
 
 - 👨‍💻 All of my projects are available at [https://github.com/yosiris-m/portfolio](https://github.com/yosiris-m/portfolio)
 
