@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/yosiris/](https://www.linkedin.com/in/yosiris/)
 
--  You can see other repositories at:  <a href="https://gitlab.com/yosiris"><img align="center" src="https://logowik.com/content/uploads/images/7502-gitlab-2022-new-logomark.webp" target="blank" alt="https://gitlab.com/-/profile" height="30" width="40" /></a>
+-  You can see other repositories at:  <a href="https://gitlab.com/yosiris"><img align="center" src="https://img2.freepng.es/20180713/hfv/kisspng-logo-version-control-gitlab-brand-e-commerce-gitlab-5b482945dfad48.8320886315314558139162.jpg" target="blank" alt="https://gitlab.com/-/profile" height="30" width="40" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
