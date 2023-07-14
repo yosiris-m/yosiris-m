@@ -2,7 +2,7 @@
 <h3 align="center">I am a programming enthusiast. I am interested in improving my knowledge of creating quality code using automated tests, good practices and design patterns.</h3>
 
 
-- 🌱 I’m currently learning **Typescript, Angular**
+- 🌱 I’m currently learning **Java**
 
 - 👯 Actually I open to work **
 
