@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://twitter.com/@yosiris0510" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@yosiris0510" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/yosiris/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yosiris/" height="30" width="40" /></a>
-  <a href="https://logowik.com/content/uploads/images/7502-gitlab-2022-new-logomark.webp"><img align="center" src="" target="blank" alt="https://gitlab.com/-/profile" height="30" width="40" /></a>
+  <a href="https://logowik.com/content/uploads/images/7502-gitlab-2022-new-logomark.webp"><img align="center" src="https://gitlab.com/yosiris" target="blank" alt="https://gitlab.com/-/profile" height="30" width="40" /></a>
 </p>
 
 
