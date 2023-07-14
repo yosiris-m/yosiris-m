@@ -12,11 +12,12 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/yosiris/](https://www.linkedin.com/in/yosiris/)
 
+-  You can see other repositories at:  <a href="https://gitlab.com/yosiris"><img align="center" src="https://logowik.com/content/uploads/images/7502-gitlab-2022-new-logomark.webp" target="blank" alt="https://gitlab.com/-/profile" height="30" width="40" /></a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@yosiris0510" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@yosiris0510" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/yosiris/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yosiris/" height="30" width="40" /></a>
-  <a href="https://gitlab.com/yosiris"><img align="center" src="https://logowik.com/content/uploads/images/7502-gitlab-2022-new-logomark.webp" target="blank" alt="https://gitlab.com/-/profile" height="30" width="40" /></a>
 </p>
 
 
