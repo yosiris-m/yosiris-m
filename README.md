@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 👯 Actually I open to work
+- 👯 Actually I'm currently working on Mensoft
 
 - 👨‍💻 All of my projects are available at [https://github.com/yosiris-m/portfolio](https://github.com/yosiris-m/portfolio)
 
